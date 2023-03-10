@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-peliculas.github.io/static/css/main.1c118c2b.css",
+    "main.js": "/card-peliculas.github.io/static/js/main.0669cc2b.js",
+    "static/js/787.1bbab6cf.chunk.js": "/card-peliculas.github.io/static/js/787.1bbab6cf.chunk.js",
+    "index.html": "/card-peliculas.github.io/index.html",
+    "main.1c118c2b.css.map": "/card-peliculas.github.io/static/css/main.1c118c2b.css.map",
+    "main.0669cc2b.js.map": "/card-peliculas.github.io/static/js/main.0669cc2b.js.map",
+    "787.1bbab6cf.chunk.js.map": "/card-peliculas.github.io/static/js/787.1bbab6cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c118c2b.css",
+    "static/js/main.0669cc2b.js"
+  ]
+}
