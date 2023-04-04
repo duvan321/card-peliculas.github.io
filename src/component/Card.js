@@ -1,16 +1,19 @@
 import React from "react";
 import "../css/Card.css";
+import img1 from "../img/Pelicula-cuarto.jpg";
+import img2 from "../img/Pelicula-fuego.jpg";
+import img3 from "../img/Pelicula-hombre.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 import { faThumbsUp } from "@fortawesome/free-solid-svg-icons";
 import { faThumbsDown } from "@fortawesome/free-solid-svg-icons";
 function card() {
-  const img1 =
-    "https://i.pinimg.com/originals/ce/a5/87/cea587f6d653cd18cd8b357fa5572069.jpg";
+  /*const img1 =
+    "img/Pelicula-cuarto.jpg";
   const img2 =
     "https://1.bp.blogspot.com/-supvJ69D-bs/YGlMB3MOu0I/AAAAAAAAEtM/SWzbnxC6L-M2ytnNdU9sN30eK_I5lFv1QCLcBGAsYHQ/s16000/a-prueba-de-fuego.jpg";
   const img3 =
-    "https://i.pinimg.com/736x/f0/19/83/f019837edb4c867da175345763f730a8.jpg";
+    "https://i.pinimg.com/736x/f0/19/83/f019837edb4c867da175345763f730a8.jpg";*/
 
   return (
     <div className="card-container">
