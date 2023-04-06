@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/card-peliculas.github.io/static/css/main.4122a37c.css",
-    "main.js": "/card-peliculas.github.io/static/js/main.d3e0806d.js",
+    "main.css": "/card-peliculas.github.io/static/css/main.0523931e.css",
+    "main.js": "/card-peliculas.github.io/static/js/main.d552003a.js",
     "static/js/787.1bbab6cf.chunk.js": "/card-peliculas.github.io/static/js/787.1bbab6cf.chunk.js",
     "static/media/Pelicula-hombre.jpg": "/card-peliculas.github.io/static/media/Pelicula-hombre.808f79f7854f5fa6ed25.jpg",
     "static/media/Pelicula-fuego.jpg": "/card-peliculas.github.io/static/media/Pelicula-fuego.d476a93f3cfa0435c5cd.jpg",
     "static/media/Pelicula-cuarto.jpg": "/card-peliculas.github.io/static/media/Pelicula-cuarto.8113066e5aa47cb2a040.jpg",
     "index.html": "/card-peliculas.github.io/index.html",
-    "main.4122a37c.css.map": "/card-peliculas.github.io/static/css/main.4122a37c.css.map",
-    "main.d3e0806d.js.map": "/card-peliculas.github.io/static/js/main.d3e0806d.js.map",
+    "main.0523931e.css.map": "/card-peliculas.github.io/static/css/main.0523931e.css.map",
+    "main.d552003a.js.map": "/card-peliculas.github.io/static/js/main.d552003a.js.map",
     "787.1bbab6cf.chunk.js.map": "/card-peliculas.github.io/static/js/787.1bbab6cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4122a37c.css",
-    "static/js/main.d3e0806d.js"
+    "static/css/main.0523931e.css",
+    "static/js/main.d552003a.js"
   ]
 }
