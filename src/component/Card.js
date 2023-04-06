@@ -19,7 +19,7 @@ function card() {
     <div className="card-container">
       <div className="card">
         <img src={img1} alt="" className="card-img" />
-        <div className="card-text">
+        
           <h3 className="title">Cuarto de guerra</h3>
           <p className="parrafo">
             Tony y Elizabeth Jordan parecen tenerlo todo: una hija preciosa, una
@@ -58,10 +58,10 @@ function card() {
             </li>
           </ul>
         </div>
-      </div>
+     
       <div className="card">
         <img src={img2} alt="" className="card-img" />
-        <div className="card-text">
+        
           <h3 className="title">A prueba de fuego</h3>
           <p className="parrafo">
             Caleb Holt, un heróico capitán de bomberos quien valora mucho la
@@ -102,11 +102,11 @@ function card() {
               <FontAwesomeIcon icon={faThumbsDown} className="manoAbajo" />
             </li>
           </ul>
-        </div>
+    
       </div>
       <div className="card">
         <img src={img3} alt="" className="card-img" />
-        <div className="card-text">
+        
           <h3 className="title">Hasta el ultimo hombre</h3>
 
           <p className="parrafo">
@@ -127,7 +127,7 @@ function card() {
             </a>
           </p>
 
-          <ul>
+          <ul className="h-t">
             <li>
               <FontAwesomeIcon icon={faStar} />
             </li>
@@ -151,7 +151,7 @@ function card() {
           </ul>
         </div>
       </div>
-    </div>
+  
   );
 }
 
