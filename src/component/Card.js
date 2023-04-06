@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "../css/Card.css";
 import img1 from "../img/Pelicula-cuarto.jpg";
@@ -16,10 +17,13 @@ function card() {
     "https://i.pinimg.com/736x/f0/19/83/f019837edb4c867da175345763f730a8.jpg";*/
 
   return (
-    <div className="card-container">
-      <div className="card">
-        <img src={img1} alt="" className="card-img" />
-        
+    <div className="header">
+      <h1 className="titulo">Peliculas cristianas</h1>
+
+      <div className="card-container">
+        <div className="card">
+          <img src={img1} alt="" className="card-img" />
+
           <h3 className="title">Cuarto de guerra</h3>
           <p className="parrafo">
             Tony y Elizabeth Jordan parecen tenerlo todo: una hija preciosa, una
@@ -58,10 +62,10 @@ function card() {
             </li>
           </ul>
         </div>
-     
-      <div className="card">
-        <img src={img2} alt="" className="card-img" />
-        
+
+        <div className="card">
+          <img src={img2} alt="" className="card-img" />
+
           <h3 className="title">A prueba de fuego</h3>
           <p className="parrafo">
             Caleb Holt, un heróico capitán de bomberos quien valora mucho la
@@ -102,11 +106,10 @@ function card() {
               <FontAwesomeIcon icon={faThumbsDown} className="manoAbajo" />
             </li>
           </ul>
-    
-      </div>
-      <div className="card">
-        <img src={img3} alt="" className="card-img" />
-        
+        </div>
+        <div className="card">
+          <img src={img3} alt="" className="card-img" />
+
           <h3 className="title">Hasta el ultimo hombre</h3>
 
           <p className="parrafo">
@@ -151,7 +154,7 @@ function card() {
           </ul>
         </div>
       </div>
-  
+    </div>
   );
 }
 
