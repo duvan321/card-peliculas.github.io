@@ -10,7 +10,7 @@
 </div>
 
 - - -
-- how it was made :
+- cómo se hizo :
 
 - cree 2 componentes: un encabezado para el título y una tarjeta para el contenido de la página.
 - En el componente tarjeta hay un contenedor padre que le da estilo con flexbox en css y un contenedor hijo que en css le da ancho a las tarjetas y otro contenedor con los textos.
